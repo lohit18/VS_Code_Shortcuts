@@ -1,0 +1,52 @@
+VS-Code Shortcuts
+
+### Basic Operations
+- Open terminal: Ctrl + `
+- Open a file: Ctrl + P / Ctrl + E
+- Command palette: Ctrl + Shift + P
+- Toggle side-bar: Ctrl + B
+- Move to Explorer window: Ctrl + Shift + E
+- Search:  
+  - In file: Ctrl + F  
+  - Across files: Ctrl + Shift + F
+
+### Navigation
+- Jump to the beginning or end of file: Ctrl + Home / Ctrl + End
+- Open next tab: Ctrl + Tab
+- Close tab: Ctrl + W
+- Close all tabs: Ctrl + K + W
+- Navigate to a line: Ctrl + G
+- Reveal in file explorer: Alt + Shift + R
+- Split editor view: Ctrl + \
+- Zen mode: Ctrl + K, Z
+
+### Text Selection & Editing
+- Select word: Ctrl + D
+- Select a line: Ctrl + L
+- Select text word by word: Ctrl + Shift + Arrow
+- Select all results of find: Alt + Enter
+- Delete word: Ctrl + Del
+- Delete line: Ctrl + Shift + K / Ctrl + X
+- Move line up: Alt + Up Arrow
+- Move line down: Alt + Down Arrow
+- Copy line up: Alt + Shift + Up Arrow
+- Copy line down: Alt + Shift + Down Arrow
+- Add multiple cursors: Alt + Click
+
+### Formatting & Refactoring
+- Quick fix: Ctrl + .
+- Format code: Alt + Shift + F
+- Format only selected lines: Ctrl + K, Ctrl + F
+- Comment:  
+  - Line: Ctrl + /  
+  - Block: Shift + Alt + A
+- Code folding: Ctrl + Shift + [
+- Rename: F2
+- Word wrap for a long line: Alt + Z
+
+### Themes & Settings
+- Change theme: Ctrl + K, T
+- Find all shortcuts: Ctrl + K, S
+
+### References
+- Emmet Cheat Sheet: [docs.emmet.io/cheat-sheet](https://docs.emmet.io/cheat-sheet/)
